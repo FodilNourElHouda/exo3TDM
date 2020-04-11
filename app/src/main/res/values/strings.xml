@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Gestionnaire de tâches</string>
+    <string name="add_btn">+</string>
+    <string name="textHolder">Ajouter une tache</string>
+    <string-array name="options">
+        <item>Les taches d\'aujourd\'hui</item>
+        <item>Les taches de lasemaine</item>
+        <item>Liste des taches</item>
+    </string-array>
+    <string name="title_app_bar">Type </string>
+    <string name="sub_title_app_bar">Veuillez choisir  </string>
+    <string name="title1">Les taches \n d\'aujourd\'hui</string>
+    <string name="title2">Les taches de\n semaine</string>
+    <string name="title3">Toutes les taches</string>
+</resources>
